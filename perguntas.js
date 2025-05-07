@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Iluminismo',
+    'Em que ano foi lançada a enciclopédia iluminista?',
+    'Em 1751'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Linha do Tempo da História Geral',
+    'Quando se iniciou o Paleolítico? E qual foi seu marco?',
+    'A 2.000.000 de anos atrás. Com o surgimento do gênero homo.'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Processo de Como Aprender',
+    'O que é estudo Passivo?',
+    'Consiste em absorver o conteúdo, mesmo sem a nescessidade da participação direta dele.'
 )

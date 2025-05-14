@@ -1,10 +1,4 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
-)
-
-criaCartao(
     'Iluminismo',
     'Em que ano foi lançada a enciclopédia iluminista?',
     'Em 1751'

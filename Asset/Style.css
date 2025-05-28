@@ -5,7 +5,7 @@
 }
 
 body {
-    background: url('img/bg-desktop.webp');
+    background: linear-gradient(to bottom, #2f2f2f, #000000);
     font-family: Bai Jamjuree;
 }
 

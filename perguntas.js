@@ -1,35 +1,35 @@
 criaCartao(
-    'Iluminismo',
-    'Em que ano foi lançada a enciclopédia iluminista?',
-    'Em 1751'
+    'Variáveis',
+    'O que é uma variável na programação?',
+    'É como uma caixa com uma etiqueta na engrenagem do código. Ela serve para guardar um dado (como um número ou um texto) que você pode usar ou mudar mais tarde.'
 )
 
 criaCartao(
-    'Linha do Tempo da História Geral',
-    'Quando se iniciou o Paleolítico? E qual foi seu marco?',
-    'A 2.000.000 de anos atrás. Com o surgimento do gênero homo.'
+    'Strings',
+    'O que significa o termo "String"?',
+    'É o nome técnico para texto. Sempre que você vê um texto entre aspas no código (ex: "Olá, Mundo!"), isso é uma String.'
 )
 
 criaCartao(
-    'Processo de Como Aprender',
-    'O que é estudo Passivo?',
-    'Consiste em absorver o conteúdo, mesmo sem a nescessidade da participação direta dele.'
+    'Funções',
+    'O que é uma função?',
+    'É um bloco de código que faz uma tarefa específica e pode ser reaproveitado várias vezes. Pense nela como uma "receita de bolo" que você pode chamar pelo nome sempre que quiser cozinhar.'
 )
 
 criaCartao(
-    'História',
-    'O que a História estuda?',
-    'As ações do homem ao longo do tempo'
+    'Operador de Atribuição',
+    'Para que serve o sinal de igual (=) na programação?',
+    'Ele não significa "igualdade" matemática, mas sim atribuição. Ele serve para guardar um valor dentro de uma variável. Exemplo: idade = 15 (a variável idade agora vale 15).'
 )
 
 criaCartao(
-    'Iluminismo',
-    'O que é o liberalismo para John Locke?',
-    'Locke argumentou que cada homem tem um direito natural à vida, à liberdade e à propriedade, complementando que os governos não devem violar esses direitos com base no contrato social.'
+    'Estruturas Condicionais (If / Else)',
+    'O que fazem os comandos if e else?',
+    'Eles controlam as decisões do código. O if (se) roda um bloco de código se uma condição for verdadeira. O else (senão) roda um código alternativo se a condição for falsa.'
 )
 
 criaCartao(
-    'História',
-    'Quais eram as "rotinas tradicionais" das crianças antes do século XIX? E quem questionou isso?',
-    'A criança era um ser substituivel, logo, existia pouco afeto com a mesma. E também, ela tornava-se produtiva economicamente para a familia, logo aos 7 anos de idade. O pensador responsável por questionar isso foi Rousseau.'
+    'Loops (Laços de Repetição)',
+    'Para que serve um loop (como o while ou for)?',
+    'Serve para repetir um bloco de código várias vezes automaticamente, até que uma condição mude (evitando que você tenha que digitar a mesma coisa dezenas de vezes).'
 )
